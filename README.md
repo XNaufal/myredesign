@@ -31,7 +31,7 @@ Saya
 # - Mission Sebelum dan Sesudah RE-DESIGN
 Saya
 
-![Mission Sebelum](image/RE9.png) ![Favicon Sesudah](image/RE10.png)
+![Mission Sebelum](image/RE9.png) ![Mission Sesudah](image/RE10.png)
 
 
 # - Contact Sebelum dan Sesudah RE-DESIGN
