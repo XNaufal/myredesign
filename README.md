@@ -2,4 +2,4 @@
 # PERHATIAN: BUTUH INTERNET!
 
 # WEBSITE: https://www.tagteamsigns.com/
-![Alt text](image link)
+![Favicon Sebelum](image/FAV1.png)
